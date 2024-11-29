@@ -1,0 +1,1 @@
+This mod updates the sound effects for Heroes of Might and Magic III, using sounds from Heroes 5, 6, and Diablo 2. It improves monster sounds, city interactions, and various game mechanics. The mod has been carefully developed over several months and continues to be enhanced.
