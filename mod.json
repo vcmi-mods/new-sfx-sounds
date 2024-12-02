@@ -8,6 +8,11 @@
 	"compatibility" : {
 		"min" : "1.4.0"
 	},
+	"softDepends" :
+	[
+		"hota.heroes3datapatch",
+		"wake-of-gods.heroes3datapatch"
+	],
 	"changelog" : {
         "1.04" : [
             "Added new sounds for various units and interactions (e.g., Marksman, Pegasus, Gremlin, etc.)",
