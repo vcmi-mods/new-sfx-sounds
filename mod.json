@@ -2,7 +2,7 @@
 	"name" : "New SFX Sounds for Heroes 3",
 	"description" : "This mod updates the sound effects for Heroes of Might and Magic III, using sounds from Heroes 5, 6, and Diablo 2. It improves monster sounds, city interactions, and various game mechanics. The mod has been carefully developed over several months and continues to be enhanced.",
 	"author" : "Quasit7",
-	"version" : "1.04",
+	"version" : "1.05",
 	"contact" : "https://www.nexusmods.com/heroesofmightandmagiciii/mods/17",
 	"modType" : "Music",
 	"compatibility" : {
@@ -14,26 +14,31 @@
 		"wake-of-gods.heroes3datapatch"
 	],
 	"changelog" : {
-        "1.04" : [
-            "Added new sounds for various units and interactions (e.g., Marksman, Pegasus, Gremlin, etc.)",
-            "Adjusted volume for Power Lich and Ice Elemental.",
-            "Improved sound effects for Behemoth, Cyclops, and Medusa."
-        ],
-        "1.03" : [
-            "Improved playback and volume for city building sounds.",
-            "Added vocal effects for Magic Elemental and Familiar.",
-            "Updated sounds for Naga Queen and Genie."
-        ],
-        "1.02" : [
-            "Accelerated Medusa and Dread Knight attack sounds.",
-            "Updated dragon sounds in Necropolis and Dungeon factions.",
-            "Enhanced interface sounds for Mercenary Camp and Arena."
-        ],
-        "1.01" : [
-            "Initial release with many sound updates for creatures and interactions.",
-            "Integrated sounds from Heroes 5, 6, and Diablo 2."
-        ],
-		"1.00" : [ "Initial release" ]
+		"1.05" : [
+			"Changed sounds responsible for build in the city( build in Heroes 6 mixed with build in Heroes 5)"
+		],
+	        "1.04" : [
+	            "Added new sounds for various units and interactions (e.g., Marksman, Pegasus, Gremlin, etc.)",
+	            "Adjusted volume for Power Lich and Ice Elemental.",
+	            "Improved sound effects for Behemoth, Cyclops, and Medusa."
+	        ],
+	        "1.03" : [
+	            "Improved playback and volume for city building sounds.",
+	            "Added vocal effects for Magic Elemental and Familiar.",
+	            "Updated sounds for Naga Queen and Genie."
+	        ],
+	        "1.02" : [
+	            "Accelerated Medusa and Dread Knight attack sounds.",
+	            "Updated dragon sounds in Necropolis and Dungeon factions.",
+	            "Enhanced interface sounds for Mercenary Camp and Arena."
+	        ],
+	        "1.01" : [
+	            "Initial release with many sound updates for creatures and interactions.",
+	            "Integrated sounds from Heroes 5, 6, and Diablo 2."
+	        ],
+		"1.00" : [
+			"Initial release"
+		]
 	},
 	"czech" : {
 		"name": "Nové zvuky pro Heroes 3",
