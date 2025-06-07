@@ -2,7 +2,7 @@
 	"name" : "New SFX Sounds for Heroes 3",
 	"description" : "This mod updates the sound effects for Heroes of Might and Magic III, using sounds from Heroes 5, 6, and Diablo 2. It improves monster sounds, city interactions, and various game mechanics. The mod has been carefully developed over several months and continues to be enhanced.",
 	"author" : "Quasit7",
-	"version" : "1.07",
+	"version" : "1.08",
 	"contact" : "https://www.nexusmods.com/heroesofmightandmagiciii/mods/17",
 	"modType" : "Music",
 	"compatibility" : {
@@ -14,6 +14,9 @@
 		"wake-of-gods.heroes3datapatch"
 	],
 	"changelog" : {
+		"1.08" : [
+			"Changes - Encharter, poison, mummy, airshield, gog move,monk,ogr, wallmiss during Siege, Bless, bloodlus, curse ans others"
+		],
 		"1.07" : [
 			"Changes - Wall hit during Siege, Faerie Dragon, Rogue, skeleton moving, magic Bolt, vulnerabity and others"
 		],
